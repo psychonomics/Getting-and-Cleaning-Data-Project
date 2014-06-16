@@ -6,7 +6,7 @@ The time domain body accelerations signals are originally measured in standard g
 
 The variables, and explanation of what each variable is, are listed below
 
-Subject
+Subject					
 Subject who performed the activity.	Range is from 1 to 30	
 
 Activity	
@@ -22,13 +22,13 @@ time.domain.body.acceleration.signals.mean.Z
 Mean subject-activity value for the mean of the time domain body acceleration signals in the Z direction.			
 			
 
-time.domain.body.acceleration.signals.std.X	
+time.domain.body.acceleration.signals.std.X
 Mean subject-activity value for the standard deviation of the time domain body acceleration signals in the X direction.			
 
 time.domain.body.acceleration.signals.std.Y	
 Mean subject-activity value for the standard deviation of the time domain body acceleration signals in the Y direction.			
 
-time.domain.body.acceleration.signals.std.Z	
+time.domain.body.acceleration.signals.std.Z
 Mean subject-activity value for the standard deviation of the time domain body acceleration signals in the Z direction.			
 
 time.domain.gravity.acceleration.signals.mean.X	
