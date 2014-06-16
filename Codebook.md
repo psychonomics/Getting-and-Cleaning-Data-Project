@@ -22,16 +22,16 @@ time.domain.body.acceleration.signals.mean.Z
 Mean subject-activity value for the mean of the time domain body acceleration signals in the Z direction.			
 			
 
-time.domain.body.acceleration.signals.std.X
+time.domain.body.acceleration.signals.std.X				
 Mean subject-activity value for the standard deviation of the time domain body acceleration signals in the X direction.			
 
-time.domain.body.acceleration.signals.std.Y	
+time.domain.body.acceleration.signals.std.Y					
 Mean subject-activity value for the standard deviation of the time domain body acceleration signals in the Y direction.			
 
-time.domain.body.acceleration.signals.std.Z
+time.domain.body.acceleration.signals.std.Z				
 Mean subject-activity value for the standard deviation of the time domain body acceleration signals in the Z direction.			
 
-time.domain.gravity.acceleration.signals.mean.X	
+time.domain.gravity.acceleration.signals.mean.X					
 Mean subject-activity value for the mean of the time domain gravity acceleration signals in the X direction.			
 			
 
