@@ -112,16 +112,16 @@ Mean subject-activity value for the standard deviation of the time domain body g
 time.domain.body.acceleration.signals.magnitude.mean	
 Mean subject-activity value for the mean of the time domain body acceleration signals magnitude.			
 
-time.domain.body.acceleration.signals.magnitude.std
+time.domain.body.acceleration.signals.magnitude.std							
 Mean subject-activity value for the standard deviation of the time domain body acceleration signals magnitude.			
 
-time.domain.gravity.acceleration.signals.magnitude.mean
+time.domain.gravity.acceleration.signals.magnitude.mean							
 Mean subject-activity value for the mean of the time domain gravity acceleration signals magnitude.			
 
-time.domain.gravity.acceleration.signals.magnitude.std
+time.domain.gravity.acceleration.signals.magnitude.std							
 Mean subject-activity value for the standard deviation of the time domain gravity acceleration signals magnitude.			
 
-time.domain.body.acceleration.Jerk.signals.magnitude.mean
+time.domain.body.acceleration.Jerk.signals.magnitude.mean							
 Mean subject-activity value for the mean of the time domain body acceleration Jerk signals magnitude.			
 
 time.domain.body.acceleration.Jerk.signals.magnitude.std					
