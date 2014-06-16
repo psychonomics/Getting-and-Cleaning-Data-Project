@@ -91,13 +91,13 @@ Mean subject-activity value for the standard deviation of the time domain body g
 time.domain.body.gyroscope.signals.std.Z
 Mean subject-activity value for the standard deviation of the time domain body gyroscope signals in the Z direction.			
 
-time.domain.body.gyroscope.Jerk.signals.mean.X
+time.domain.body.gyroscope.Jerk.signals.mean.X	
 Mean subject-activity value for the mean of the time domain body gyroscope Jerk signals in the X direction.						
 
-time.domain.body.gyroscope.Jerk.signals.mean.Y
+time.domain.body.gyroscope.Jerk.signals.mean.Y	
 Mean subject-activity value for the mean of the time domain body gyroscope Jerk signals in the Y direction.						
 
-time.domain.body.gyroscope.Jerk.signals.mean.Z
+time.domain.body.gyroscope.Jerk.signals.mean.Z	
 Mean subject-activity value for the mean of the time domain body gyroscope Jerk signals in the Z direction.			
 
 time.domain.body.gyroscope.Jerk.signals.std.X	
