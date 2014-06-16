@@ -170,8 +170,8 @@ Mean subject-activity value for the mean of the frequency domain body accelerati
 **frequency.domain.body.acceleration.Jerk.signals.std.X**	
 Mean subject-activity value for the standard deviation of the frequency domain body acceleration Jerk signals in the X direction.			
 
-**frequency.domain.body.acceleration.Jerk.signals.std.Y	
-Mean subject-activity value for the standard deviatio**n of the frequency domain body acceleration Jerk signals in the Y direction.			
+**frequency.domain.body.acceleration.Jerk.signals.std.Y**	
+Mean subject-activity value for the standard deviation of the frequency domain body acceleration Jerk signals in the Y direction.			
 
 **frequency.domain.body.acceleration.Jerk.signals.std.Z**	
 Mean subject-activity value for the standard deviation of the frequency domain body acceleration Jerk signals in the Z direction.			
