@@ -1,10 +1,10 @@
-### Units of measurement
+### 1. Units of measurement
 
 All measurements were normalized and bounded within [-1,1], before the mean was taken accross subject and activity.
 The time domain body accelerations signals are originally measured in standard gravity units 'g'. The body acceleration signals were obtained by subtracting the gravity from the total acceleration. The time domain body gyroscope signals are originally the angular velocity vector measured by the gyroscope for each window sample, in units of radians/second. 
 
 
-### Variables
+### 2. Variables in the file
 The variables, and explanation of what each variable is, are listed below
 
 **Subject**					
