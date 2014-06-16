@@ -172,10 +172,13 @@ Mean subject-activity value for the mean of the frequency domain body gyroscope 
 
 frequency.domain.body.gyroscope.signals.std.X	
 Mean subject-activity value for the standard deviation of the frequency domain body gyroscope signals in the X direction.			
+
 frequency.domain.body.gyroscope.signals.std.Y	
 Mean subject-activity value for the standard deviation of the frequency domain body gyroscope signals in the Y direction.			
+
 frequency.domain.body.gyroscope.signals.std.Z	
 Mean subject-activity value for the standard deviation of the frequency domain body gyroscope signals in the Z direction.			
+
 frequency.domain.body.acceleration.signals.magnitude.mean
 Mean subject-activity value for the mean of the frequency domain body acceleration signals magnitude			
 
@@ -186,7 +189,8 @@ frequency.domain.body.acceleration.Jerk.signals.magnitude.mean
 Mean subject-activity value for the mean of the frequency domain body acceleration Jerk signals magnitude			
 
 frequency.domain.body.acceleration.Jerk.signals.magnitude.std	
-Mean subject-activity value for the standard deviation of the frequency domain body acceleration Jerk signals magnitude			
+Mean subject-activity value for the standard deviation of the frequency domain body acceleration Jerk signals magnitude						
+
 frequency.domain.body.gyroscope.signals.magnitude.mean	
 Mean subject-activity value for the mean of the frequency domain body gyroscope signals magnitude			
 
