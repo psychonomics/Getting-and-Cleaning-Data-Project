@@ -35,11 +35,11 @@ time.domain.gravity.acceleration.signals.mean.X
 Mean subject-activity value for the mean of the time domain gravity acceleration signals in the X direction.			
 			
 
-time.domain.gravity.acceleration.signals.mean.Y	
+time.domain.gravity.acceleration.signals.mean.Y					
 Mean subject-activity value for the mean of the time domain gravity acceleration signals in the Y direction.			
 			
 
-time.domain.gravity.acceleration.signals.mean.Z	
+time.domain.gravity.acceleration.signals.mean.Z						
 Mean subject-activity value for the mean of the time domain gravity acceleration signals in the Z direction.			
 			
 
@@ -124,19 +124,19 @@ Mean subject-activity value for the standard deviation of the time domain gravit
 time.domain.body.acceleration.Jerk.signals.magnitude.mean
 Mean subject-activity value for the mean of the time domain body acceleration Jerk signals magnitude.			
 
-time.domain.body.acceleration.Jerk.signals.magnitude.std
+time.domain.body.acceleration.Jerk.signals.magnitude.std					
 Mean subject-activity value for the standard deviation of the time domain body acceleration Jerk signals magnitude.			
 
-time.domain.body.gyroscope.signals.magnitude.mean
+time.domain.body.gyroscope.signals.magnitude.mean						
 Mean subject-activity value for the mean of the time domain body gyroscope signals magnitude.			
 
-time.domain.body.gyroscope.signals.magnitude.std
+time.domain.body.gyroscope.signals.magnitude.std						
 Mean subject-activity value for the standard deviation of the time domain body gyroscope signals magnitude.			
 
-time.domain.body.gyroscope.Jerk.signals.magnitude.mean
+time.domain.body.gyroscope.Jerk.signals.magnitude.mean						
 Mean subject-activity value for the mean of the time domain body gyroscope Jerk signals magnitude.			
 
-time.domain.body.gyroscope.Jerk.signals.magnitude.std	
+time.domain.body.gyroscope.Jerk.signals.magnitude.std							
 Mean subject-activity value for the standard deviation of the time domain body gyroscope Jerk signals magnitude.			
 
 frequency.domain.body.acceleration.signals.mean.X	
