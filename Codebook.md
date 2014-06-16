@@ -10,7 +10,7 @@ The variables, and explanation of what each variable is, are listed below
 **Subject**					
 Subject who performed the activity.	Range is from 1 to 30	
 
-Activity**	
+**Activity**	
 Activity undertaken by subject.
 
 **time.domain.body.acceleration.signals.mean.X**	
